@@ -1,0 +1,12 @@
+img {
+    width: auto;
+    height: 400px;
+}
+
+* {
+    text-align: center;
+}
+
+body {
+    background-color: gold;
+}
